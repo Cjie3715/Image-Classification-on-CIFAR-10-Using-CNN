@@ -1,6 +1,6 @@
 # Image Classification on CIFAR-10 Using CNN
 
-**Author:** Xi-Jie Zeng (Yuan Ze University)
+**Author:** Si-Jie Zeng (Yuan Ze University)
 
 ## Project Description
 
